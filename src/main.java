@@ -1,10 +1,3 @@
-//------------------------------------------------------------
-//NAME: Omojola Oluwaseun
-//STUDENT NUMBER: 7880480
-//COURSE: comp 4140
-//INSTRUCTOR: Pakching Li
-//ASSIGNMENT: assignment 3
-//------------------------------------------------------------
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;
